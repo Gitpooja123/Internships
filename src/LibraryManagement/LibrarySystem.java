@@ -1,7 +1,6 @@
 //Task 1: Library Management System with JDBC
 
 package LibraryManagement;
-
 import java.sql.*;
 import java.util.Scanner;
 
