@@ -59,4 +59,49 @@ Java Development Intern at **CodVeda**
 
 ---
 
+# 🌲 Binary Search Tree – CodVeda Internship Task 2
+
+This project is part of **Task 2** of my **Java Development Internship at CodVeda**.  
+It involves implementing a **Binary Search Tree (BST)** with core operations such as insertion, deletion, searching, and tree traversals using Java.
+
+---
+
+## 📌 Project Overview
+
+The **Binary Search Tree (BST)** is a hierarchical data structure that stores data in a sorted manner for fast lookup, insertion, and deletion operations.  
+This console-based Java program provides an interactive way to perform various BST operations and understand the internal structure of binary trees.
+
+---
+
+## 🎯 Objectives
+
+- Apply core **data structure** concepts in Java
+- Gain a deeper understanding of **tree-based recursion**
+- Practice implementing **insertion**, **deletion**, **search**, and **tree traversals**
+- Strengthen coding logic through hierarchical structure manipulation
+
+---
+
+## ⚙️ Features Implemented
+
+🔹 **Insert Node**  
+Insert values into the BST while maintaining its ordered property.
+
+🔹 **Delete Node**  
+Delete nodes from the BST (with 0, 1, or 2 children) while preserving tree structure.
+
+🔹 **Search Value**  
+Search for a particular node value and return if it exists.
+
+🔹 **Tree Traversals**  
+- **In-order Traversal**: Left → Root → Right  
+- **Pre-order Traversal**: Root → Left → Right  
+- **Post-order Traversal**: Left → Right → Root
+
+🔹 **User Menu**  
+Interactive CLI (Command Line Interface) menu for user input.
+
+---
+
+
 
